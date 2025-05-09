@@ -38,3 +38,44 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+
+# 📸 360 Party Camera Rental Web App
+
+A full-stack booking web application for renting out a 360-degree party camera. Built using **Next.js**, **MySQL**, and deployed on **Vercel**.
+
+---
+
+## 🚀 Live Demo
+
+👉 [Click here to view the deployed app](party360-final-ae3r.vercel.app)
+
+---
+
+## 🛠️ Features
+
+- 📆 Book 360 camera services for events
+- 💻 Full CRUD functionality (Create, Read, Update, Delete)
+- 📡 API integration between frontend and backend using Axios
+- 🧾 Data stored securely in a MySQL database
+- 🌐 Fully deployed and accessible via Vercel
+
+---
+
+## 📂 Tech Stack
+
+- **Frontend**: React (Next.js)
+- **Backend**: Next.js API Routes
+- **Database**: MySQL (via MySQL Workbench or PlanetScale)
+- **Deployment**: Vercel
+- **Tools**: Axios, CSS Modules or Tailwind CSS (optional)
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Clone the Repo
+
+```bash
+git clone https://github.com/Kenielmc/Party360Final.git
+cd party360-rental
+
