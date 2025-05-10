@@ -79,3 +79,21 @@ A full-stack booking web application for renting out a 360-degree party camera. 
 git clone https://github.com/Kenielmc/Party360Final.git
 cd party360-rental
 
+### 🎨 Tailwind CSS Integration & UI Features
+
+This project uses **Tailwind CSS v3.4** for fast, modern, and responsive UI development.
+
+#### ✅ Setup Details
+
+- Installed via `npm install -D tailwindcss@3.4.1 postcss autoprefixer`
+- Configured using:
+  - `postcss.config.js`
+  - `tailwind.config.js`
+- Global Tailwind styles included in `styles/globals.css`:
+
+```css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
